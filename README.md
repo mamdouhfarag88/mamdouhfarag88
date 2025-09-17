@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mamdouh Farag 👋
 
-<!--
-**mamdouhfarag88/mamdouhfarag88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cloud & DevOps Engineer | Recent Graduate**  
+Passionate about cloud computing, automation, and containerization.  
+Skilled in **AWS, Terraform, Ansible, RedHat Linux, Podman, OpenShift, Networking**.  
 
-Here are some ideas to get you started:
+## 🎯 Career Highlights
+- Graduate of Mansoura University – Faculty of Engineering (Telecommunication & Computer Engineering), 2024.  
+- Completed **NTI Cloud DevOps Accelerator Scholarship (4 months)** covering AWS, RedHat, Ansible, Terraform, CI/CD, and Cloud Security.  
+- Hands-on training experience at **iVolve**.  
+- Summer trainings in **CCNA, Huawei Cloud, Cloud Services Management, and Cyber Security (Cyber-X)**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- **Cloud:** AWS, Huawei Cloud  
+- **DevOps:** Terraform, Ansible, Jenkins  
+- **Containers:** Podman, Kubernetes, OpenShift  
+- **Linux:** RedHat Administration I & II  
+- **Networking:** CCNA, strong networking fundamentals  
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/mamdouh-farag-231515322](https://www.linkedin.com/in/mamdouh-farag-231515322/)  
+- Email: mamdouhfarag88@gmail.com
